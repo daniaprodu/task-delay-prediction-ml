@@ -1,366 +1,543 @@
-Fluxo de Trabalho;Responsável;Sprint;Tipo de História;Sub-Classificação;Pontuação;Duração estimada;Duração total do impedimento;Motivo do impedimento;Squad;Aberto em;Finalizado em
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Nova funcionalidade;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;02/01/2025 10:01:16;27/01/2025 16:32:05
-Ativado - Disponível para uso;Desenvolvedor 2;SPRINT 1 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;02/01/2025 15:25:28;17/01/2025 10:08:59
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 1 RELEASE 1;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;06/01/2025 10:23:03;15/01/2025 16:15:52
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/01/2025 11:10:30;12/02/2025 10:07:40
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);11;Infraestrutura/Ambiente;Squad 3;06/01/2025 11:34:21;22/01/2025 11:15:56
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 0 RELEASE 1;Produto Digital com Software;Evolução Técnica;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/01/2025 17:20:39;10/01/2025 10:19:33
-Ativado - Disponível para uso;Desenvolvedor 8;_I1_R1_25;Produto Digital com Software;Nova funcionalidade;;Até 3 semanas - 15 dias úteis (M);0;;Squad 3;07/01/2025 18:26:12;21/01/2025 11:21:22
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;07/01/2025 18:33:36;05/02/2025 11:50:07
-Ativado - Disponível para uso;Desenvolvedor 9; - Sprint 4_R4_2024;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;08/01/2025 12:13:38;15/01/2025 10:30:34
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 2 RELEASE 1;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;08/01/2025 14:21:04;04/02/2025 11:02:14
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;08/01/2025 16:50:13;27/01/2025 16:21:54
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 2 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;09/01/2025 09:23:48;14/02/2025 22:59:16
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);14;Dependências externas;Squad 2;09/01/2025 09:26:57;27/02/2025 14:23:29
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 0 RELEASE 1;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;09/01/2025 10:28:02;13/01/2025 09:30:12
-Ativado - Disponível para uso;Desenvolvedor 13;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;09/01/2025 11:42:35;14/01/2025 11:07:11
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R1-SP06;Dados e Analytics;SOR   System of Records;;Até 2 semanas - 10 dias úteis (P);6936322;Dependências externas;Squad 1;10/01/2025 11:18:00;31/03/2025 18:08:07
-Ativado - Disponível para uso;Desenvolvedor 15;2025-R1-SP01;Dados e Analytics;Dataviz;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;10/01/2025 11:26:34;23/01/2025 14:45:09
-Ativado - Disponível para uso;Desenvolvedor 15;2025-R1-SP01;Dados e Analytics;Dataviz;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;10/01/2025 11:29:49;24/01/2025 10:01:37
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R1-SP03;Dados e Analytics;SOT   Source of Truth;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;10/01/2025 11:44:13;21/02/2025 16:08:52
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 0 RELEASE 1;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;10/01/2025 14:27:00;13/01/2025 08:58:27
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 1 RELEASE 1;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 2;10/01/2025 15:44:08;22/01/2025 22:21:27
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 1 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 2;10/01/2025 15:48:51;24/01/2025 11:15:40
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 1 RELEASE 1;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;10/01/2025 17:12:46;21/01/2025 09:55:45
-Ativado - Disponível para uso;Desenvolvedor 17;_I1_R1_25;Produto Digital com Software;Evolução Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;13/01/2025 10:25:56;21/01/2025 11:37:08
-Ativado - Disponível para uso;Desenvolvedor 9; - Sprint 4_R4_2024;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;13/01/2025 11:06:52;15/01/2025 10:31:01
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;13/01/2025 11:25:17;22/01/2025 14:14:31
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;13/01/2025 11:29:06;17/01/2025 11:37:47
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 1;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;13/01/2025 12:17:14;04/02/2025 11:03:38
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 1 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;13/01/2025 12:21:51;21/01/2025 10:11:32
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 3 RELEASE 1;Produto Digital com Software;Nova funcionalidade;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;13/01/2025 12:34:39;21/02/2025 17:16:51
-Ativado - Disponível para uso;Desenvolvedor 13;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;14/01/2025 13:05:09;24/01/2025 11:30:00
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;8;Até 2 semanas - 10 dias úteis (P);3;Infraestrutura/Ambiente;Squad 2;14/01/2025 18:54:48;17/02/2025 22:44:10
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 1;Produto Digital com Software;Evolução Técnica;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;14/01/2025 19:22:44;30/01/2025 22:22:49
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;14/01/2025 20:10:09;15/01/2025 10:02:57
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;15/01/2025 10:04:35;26/01/2025 17:56:52
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 1 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;15/01/2025 17:09:35;21/01/2025 10:11:29
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Nova funcionalidade;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;16/01/2025 12:12:15;28/01/2025 10:05:19
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;16/01/2025 15:08:26;17/01/2025 10:53:43
-Ativado - Disponível para uso;Desenvolvedor 8;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;17/01/2025 11:27:22;06/02/2025 11:35:21
-Ativado - Disponível para uso;Desenvolvedor 23;_I1_R1_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;17/01/2025 13:51:52;10/02/2025 11:41:00
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 1 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;21/01/2025 10:01:05;27/01/2025 09:53:14
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 1 RELEASE 1;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;21/01/2025 16:58:27;27/01/2025 09:53:05
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;22/01/2025 14:06:20;27/01/2025 16:28:08
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;22/01/2025 14:21:34;27/01/2025 16:27:48
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;23/01/2025 10:32:06;27/01/2025 16:24:05
-Ativado - Disponível para uso;Desenvolvedor 24; - Sprint 1_R1_2025;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;23/01/2025 14:34:34;27/01/2025 14:47:27
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;23/01/2025 15:20:24;24/01/2025 11:18:09
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 1;Produto Digital com Software;Evolução Técnica;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 17:19:13;11/02/2025 10:11:52
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 17:25:25;12/02/2025 10:39:09
-Ativado - Disponível para uso;Desenvolvedor 7;;Produto Digital com Software;Evolução Técnica;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 23:30:13;23/04/2025 16:33:37
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 23:32:00;07/03/2025 10:27:24
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/01/2025 11:22:17;27/01/2025 16:22:37
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;24/01/2025 12:07:34;27/02/2025 09:04:11
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 1;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/01/2025 14:19:44;12/02/2025 10:18:11
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/01/2025 14:32:18;27/01/2025 16:27:32
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/01/2025 15:08:00;28/01/2025 11:38:29
-Ativado - Disponível para uso;Desenvolvedor 2;SPRINT 2 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 10:15:54;17/02/2025 09:37:11
-Ativado - Disponível para uso;Desenvolvedor 26;SPRINT 2 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 10:48:28;12/02/2025 09:49:10
-Ativado - Disponível para uso;Desenvolvedor 26;SPRINT 2 RELEASE 1;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 11:02:46;12/02/2025 11:03:19
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 2 RELEASE 1;Produto Digital com Software;Novo produto;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/01/2025 11:06:43;30/01/2025 08:16:58
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 2 RELEASE 1;Produto Digital com Software;Novo produto;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;27/01/2025 11:13:09;14/02/2025 07:56:53
-Ativado - Disponível para uso;Desenvolvedor 27;SPRINT 2 RELEASE 1;Produto Digital com Software;Adequação  a um novo requisito não-funcional;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 11:15:18;17/02/2025 09:27:46
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 2 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/01/2025 11:58:03;14/02/2025 07:56:59
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 2 RELEASE 1;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/01/2025 12:18:40;10/02/2025 11:16:11
-Benefício capturado;Desenvolvedor 8;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);1470096;Infraestrutura/Ambiente;Squad 3;27/01/2025 12:25:27;23/04/2025 11:52:26
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/01/2025 15:40:38;27/01/2025 16:23:53
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/01/2025 16:39:51;28/01/2025 09:35:10
-Ativado - Disponível para uso;Desenvolvedor 24; - Sprint 4_R1_2025;Produto Digital com Software;Alteração de funcionalidade ;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;27/01/2025 16:55:01;19/03/2025 15:29:10
-Ativado - Disponível para uso;Desenvolvedor 28; - Sprint 1_R2_2025;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);4729;;Squad 4;27/01/2025 16:56:26;15/04/2025 11:52:48
-Ativado - Disponível para uso;Desenvolvedor 28; - Sprint 2_R1_2025;Produto Digital com Software;Alteração de funcionalidade ;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;27/01/2025 16:59:05;11/02/2025 11:38:30
-Ativado - Disponível para uso;Desenvolvedor 6; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;27/01/2025 17:11:26;24/03/2025 11:39:02
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 11:12:07;12/02/2025 10:10:21
-Benefício capturado;Desenvolvedor 22;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 11:17:28;13/02/2025 12:24:00
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 11:18:36;12/02/2025 10:09:53
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 12:11:57;28/01/2025 18:08:51
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;Dependências externas;Squad 6;28/01/2025 12:29:56;11/02/2025 09:54:29
-Ativado - Disponível para uso;Desenvolvedor 23;_I1_R1_25;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;30/01/2025 10:42:48;03/02/2025 11:38:36
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);348473;;Squad 3;30/01/2025 19:30:37;07/04/2025 11:33:14
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;31/01/2025 10:31:46;11/02/2025 10:19:02
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;31/01/2025 16:26:41;03/02/2025 18:36:33
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;03/02/2025 10:38:56;04/02/2025 12:07:48
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;03/02/2025 16:22:35;17/02/2025 11:38:41
-Ativado - Disponível para uso;Desenvolvedor 30;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;03/02/2025 17:22:15;17/02/2025 15:00:15
-Ativado - Disponível para uso;Desenvolvedor 31;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;03/02/2025 18:47:08;26/02/2025 11:08:08
-Ativado - Disponível para uso;Desenvolvedor 31;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;03/02/2025 19:31:30;06/02/2025 11:07:19
-Ativado - Disponível para uso;Desenvolvedor 10;A - Sprint 1_R4_2024;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;03/02/2025 21:34:32;04/02/2025 12:07:35
-Ativado - Disponível para uso;Desenvolvedor 32;SPRINT 2 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;04/02/2025 11:37:03;06/02/2025 11:06:14
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;04/02/2025 12:08:52;11/02/2025 09:32:04
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;04/02/2025 17:14:29;10/02/2025 08:05:41
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 3 RELEASE 1;Produto Digital com Software;Nova funcionalidade;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;05/02/2025 14:31:02;06/03/2025 20:56:17
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 3 RELEASE 1;Produto Digital com Software;Novo produto;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;05/02/2025 18:05:05;18/02/2025 09:05:40
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;06/02/2025 09:46:54;14/02/2025 18:38:13
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;06/02/2025 12:24:25;13/02/2025 13:50:28
-Ativado - Disponível para uso;Desenvolvedor 29;;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;Falta de informações/Erros de definição;Squad 6;06/02/2025 16:33:55;17/03/2025 10:04:43
-Ativado - Disponível para uso;Desenvolvedor 26;SPRINT 2 RELEASE 1;Produto Digital com Software;Evolução Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;06/02/2025 16:59:38;17/02/2025 09:25:23
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;06/02/2025 20:23:16;13/02/2025 15:05:57
-Ativado - Disponível para uso;Desenvolvedor 17;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;07/02/2025 14:27:18;17/03/2025 11:11:01
-Ativado - Disponível para uso;Desenvolvedor 31;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;10/02/2025 11:03:58;17/02/2025 11:05:12
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 3 RELEASE 1;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/02/2025 12:13:32;21/02/2025 14:17:08
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/02/2025 12:24:55;18/02/2025 09:24:15
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/02/2025 12:32:48;27/02/2025 11:06:16
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;10/02/2025 15:01:35;11/02/2025 20:20:46
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 3 RELEASE 1;Produto Digital com Software;Nova funcionalidade;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;10/02/2025 15:41:52;05/03/2025 14:15:54
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Alteração de funcionalidade ;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;10/02/2025 18:31:28;21/02/2025 18:37:08
-Ativado - Disponível para uso;Desenvolvedor 13;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;11/02/2025 11:06:03;17/02/2025 11:38:12
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/02/2025 12:27:16;27/02/2025 10:19:02
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/02/2025 15:08:28;14/02/2025 09:34:27
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Nova funcionalidade;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/02/2025 17:00:36;28/02/2025 10:06:31
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);2;Infraestrutura/Ambiente;Squad 2;13/02/2025 12:33:29;25/03/2025 09:55:02
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/02/2025 15:38:31;11/03/2025 12:04:21
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/02/2025 17:00:41;05/03/2025 23:03:04
-Ativado - Disponível para uso;Desenvolvedor 25;SPRINT 3 RELEASE 1;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/02/2025 17:37:22;27/02/2025 17:04:26
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;13/02/2025 19:39:27;27/02/2025 10:02:03
-Ativado - Disponível para uso;Desenvolvedor 29;;Produto Digital com Software;Alteração de funcionalidade ;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;13/02/2025 20:55:41;27/02/2025 16:20:46
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 1;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/02/2025 09:52:40;17/02/2025 09:59:32
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/02/2025 10:53:29;27/02/2025 11:10:59
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 4 RELEASE 1;Produto Digital com Software;Evolução Técnica;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/02/2025 17:00:22;11/03/2025 12:03:43
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;3;Até 1 semana - 5 dias úteis (PP);2;Falta de informações/Erros de definição;Squad 2;14/02/2025 17:42:56;24/02/2025 22:54:39
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;14/02/2025 17:44:43;07/03/2025 11:08:22
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;14/02/2025 18:07:00;18/02/2025 11:37:01
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;17/02/2025 11:03:53;10/03/2025 15:03:31
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;17/02/2025 11:12:59;25/02/2025 14:31:20
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;17/02/2025 20:03:14;27/02/2025 10:02:40
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;;Até 2 semanas - 10 dias úteis (P);0;Dependências externas;Squad 6;17/02/2025 21:05:02;17/03/2025 10:02:14
-Ativado - Disponível para uso;Desenvolvedor 34; - Sprint 4_R1_2025;Parametrização de Software;Parametrizações;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;18/02/2025 09:44:25;25/03/2025 18:06:51
-Ativado - Disponível para uso;Desenvolvedor 13;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;18/02/2025 14:51:45;12/03/2025 11:31:24
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;18/02/2025 15:10:43;24/02/2025 23:39:12
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/02/2025 15:28:23;31/03/2025 11:12:29
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/02/2025 15:31:47;31/03/2025 11:12:45
-Ativado - Disponível para uso;Desenvolvedor 36; - Sprint 1_R2_2025;Produto Digital com Software;Nova funcionalidade;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;18/02/2025 15:44:01;10/04/2025 17:54:11
-Ativado - Disponível para uso;Desenvolvedor 36; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;5;Até 2 semanas - 10 dias úteis (P);854903;Dependências externas;Squad 4;18/02/2025 15:47:52;08/04/2025 11:51:55
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 4 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);11;Infraestrutura/Ambiente;Squad 2;19/02/2025 11:31:58;25/03/2025 09:54:56
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 4 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;19/02/2025 11:36:20;25/03/2025 09:38:02
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;19/02/2025 12:16:14;19/02/2025 22:15:13
-Ativado - Disponível para uso;Desenvolvedor 26;SPRINT 3 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;20/02/2025 16:25:53;05/03/2025 15:16:46
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 6;20/02/2025 18:12:55;17/03/2025 10:03:33
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;21/02/2025 10:17:44;06/03/2025 18:11:50
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;21/02/2025 15:54:32;12/03/2025 11:18:51
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 3 RELEASE 1;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);5;Dependências externas;Squad 2;21/02/2025 16:50:26;07/03/2025 11:08:55
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;21/02/2025 17:58:35;07/03/2025 10:12:51
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 1 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/02/2025 14:12:24;25/04/2025 11:30:17
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;25/02/2025 10:49:19;25/04/2025 11:32:22
-Ativado - Disponível para uso;Desenvolvedor 22;;Produto Digital com Software;Alteração de funcionalidade ;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;25/02/2025 10:50:51;06/03/2025 15:43:21
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;25/02/2025 11:58:40;28/02/2025 10:02:29
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 4 RELEASE 1;Produto Digital com Software;Novo produto;5;Até 2 semanas - 10 dias úteis (P);1264152;Dependências externas;Squad 5;25/02/2025 14:36:42;28/03/2025 11:15:56
-Ativado - Disponível para uso;Desenvolvedor 37;_R2_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);949842;Falta de informações/Erros de definição;Squad 7;25/02/2025 18:50:02;10/04/2025 11:10:57
-Ativado - Disponível para uso;Desenvolvedor 31;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);259222;Infraestrutura/Ambiente;Squad 7;25/02/2025 18:55:02;09/05/2025 00:18:43
-Ativado - Disponível para uso;Desenvolvedor 5;_I1_R1_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);259553;Dependências externas;Squad 3;26/02/2025 15:16:39;03/04/2025 11:39:33
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/02/2025 09:58:00;06/03/2025 11:59:04
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/02/2025 10:08:14;07/03/2025 10:10:40
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 3 RELEASE 1;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;27/02/2025 11:36:04;05/03/2025 22:09:07
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 6;27/02/2025 14:53:46;17/03/2025 10:02:37
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 3 RELEASE 1;Evoluções de Processos de Negócio;Puro Negócio - sem entrega de software;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;28/02/2025 10:35:36;07/03/2025 11:08:37
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/02/2025 15:31:55;06/03/2025 11:58:56
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 0 RELEASE 2;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);508917;Infraestrutura/Ambiente;Squad 2;05/03/2025 13:48:28;31/03/2025 23:58:38
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;05/03/2025 13:53:21;25/04/2025 09:41:26
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 4 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/03/2025 10:19:15;19/03/2025 10:21:39
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 2 semanas - 10 dias úteis (P);0;Infraestrutura/Ambiente;Squad 6;06/03/2025 10:34:28;13/03/2025 10:45:04
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;06/03/2025 10:45:30;13/03/2025 10:44:15
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/03/2025 10:47:38;24/03/2025 23:02:22
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/03/2025 10:57:43;14/04/2025 09:36:43
-Ativado - Disponível para uso;Desenvolvedor 1;A - Sprint 1 R2 2025;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);2959457;Infraestrutura/Ambiente;Squad 6;06/03/2025 11:15:24;22/04/2025 15:51:09
-Ativado - Disponível para uso;Desenvolvedor 17;_R2_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;06/03/2025 13:53:36;16/04/2025 09:49:46
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;Infraestrutura/Ambiente;Squad 6;06/03/2025 14:16:31;13/03/2025 10:46:35
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;Infraestrutura/Ambiente;Squad 6;06/03/2025 14:36:39;13/03/2025 10:47:34
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;06/03/2025 14:50:19;24/03/2025 09:50:00
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);1273041;Falta de informações/Erros de definição;Squad 6;06/03/2025 18:12:11;07/04/2025 11:11:25
-Ativado - Disponível para uso;Desenvolvedor 17;_R2_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;06/03/2025 19:18:07;16/04/2025 14:34:54
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 3 RELEASE 1;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;07/03/2025 07:36:35;10/03/2025 07:14:53
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;07/03/2025 10:30:37;26/03/2025 18:04:52
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;07/03/2025 10:32:50;13/03/2025 10:43:37
-Ativado - Disponível para uso;Desenvolvedor 15;2025-R1-SP05;Atividades Pura-Infra;Pura-Infra;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;07/03/2025 10:33:23;20/03/2025 18:28:26
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R1-SP06;Dados e Analytics;SOR   System of Records;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;07/03/2025 10:40:07;31/03/2025 23:03:32
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);604544;;Squad 6;07/03/2025 10:44:05;04/04/2025 10:50:41
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R1-SP06;Dados e Analytics;SOR   System of Records;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;07/03/2025 10:47:14;01/04/2025 17:28:13
-Ativado - Disponível para uso;Desenvolvedor 21;;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;07/03/2025 11:58:55;17/03/2025 10:04:18
-Ativado - Disponível para uso;Desenvolvedor 8;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 2 semanas - 10 dias úteis (P);604511;Falta de informações/Erros de definição;Squad 3;07/03/2025 12:11:13;14/04/2025 11:59:17
-Ativado - Disponível para uso;Desenvolvedor 13;_I1_R1_25;Atividades Pura-Infra;Pura-Infra;;Até 2 semanas - 10 dias úteis (P);0;;Squad 3;07/03/2025 12:27:47;25/03/2025 11:40:50
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/03/2025 15:53:40;25/03/2025 09:38:27
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 0 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;07/03/2025 17:37:45;04/04/2025 21:58:00
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/03/2025 18:10:08;25/03/2025 09:26:14
-Ativado - Disponível para uso;Desenvolvedor 5;_R2_25;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;07/03/2025 19:11:49;16/05/2025 11:45:27
-Ativado - Disponível para uso;Desenvolvedor 39; - Sprint 4_R1_2025;Produto Digital com Software;Alteração de funcionalidade ;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;10/03/2025 09:43:21;03/04/2025 11:33:44
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;10/03/2025 10:55:37;12/03/2025 11:20:11
-Ativado - Disponível para uso;Desenvolvedor 2;SPRINT 4 RELEASE 1;Produto Digital com Software;Evolução Técnica;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;10/03/2025 12:03:05;14/03/2025 14:30:29
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;10/03/2025 13:56:30;14/03/2025 11:11:30
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 4 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);856447;Infraestrutura/Ambiente;Squad 5;10/03/2025 15:42:46;28/03/2025 09:00:09
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Produto Digital com Software;Novo produto;2;Até 2 semanas - 10 dias úteis (P);1793310;Falta de informações/Erros de definição;Squad 5;10/03/2025 16:34:39;06/05/2025 09:23:15
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 4 RELEASE 1;Produto Digital com Software;Adequação  a um novo requisito não-funcional;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/03/2025 17:01:56;28/03/2025 11:16:09
-Ativado - Disponível para uso;Desenvolvedor 25;SPRINT 4 RELEASE 1;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;10/03/2025 17:29:58;14/03/2025 11:16:31
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);856485;Infraestrutura/Ambiente;Squad 5;10/03/2025 17:34:42;28/03/2025 09:00:57
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 0 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/03/2025 17:41:32;01/04/2025 14:37:55
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;11/03/2025 09:44:39;13/03/2025 10:44:07
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;11/03/2025 09:49:12;13/03/2025 10:45:51
-Ativado - Disponível para uso;Desenvolvedor 13;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 2 semanas - 10 dias úteis (P);0;;Squad 3;11/03/2025 10:27:07;15/04/2025 14:21:44
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;11/03/2025 11:49:12;25/04/2025 11:32:34
-Ativado - Disponível para uso;Desenvolvedor 21;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;11/03/2025 12:50:52;14/03/2025 20:05:38
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/03/2025 09:59:13;14/03/2025 11:28:23
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/03/2025 10:16:52;02/05/2025 09:25:22
-Ativado - Disponível para uso;Desenvolvedor 24; - Sprint 1_R2_2025;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;12/03/2025 11:43:31;16/04/2025 11:33:42
-Ativado - Disponível para uso;Desenvolvedor 36; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;8;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;12/03/2025 14:38:40;31/03/2025 18:06:11
-Ativado - Disponível para uso;Desenvolvedor 29;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;14/03/2025 09:37:33;19/03/2025 17:37:45
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 1 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/03/2025 11:12:22;25/04/2025 11:32:45
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/03/2025 11:06:53;01/04/2025 11:58:47
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/03/2025 11:19:01;01/04/2025 11:58:59
-Benefício capturado;Desenvolvedor 35; - Sprint 1_R2_2025;Produto Digital com Software;Nova funcionalidade;3;Até 3 semanas - 15 dias úteis (M);1882694;Infraestrutura/Ambiente;Squad 4;18/03/2025 11:30:53;29/04/2025 12:04:07
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/03/2025 11:49:35;01/04/2025 11:58:36
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;18/03/2025 13:46:13;19/03/2025 16:29:27
-Ativado - Disponível para uso;Desenvolvedor 10;;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;18/03/2025 15:09:37;19/03/2025 19:28:40
-Ativado - Disponível para uso;Desenvolvedor 1;;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;18/03/2025 16:44:12;28/03/2025 10:10:08
-Benefício capturado;Desenvolvedor 31;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;19/03/2025 10:20:06;21/05/2025 07:43:47
-Ativado - Disponível para uso;Desenvolvedor 6; - Sprint 1_R2_2025;Produto Digital com Software;Nova funcionalidade;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 11:00:29;30/04/2025 10:18:02
-Benefício capturado;Desenvolvedor 35; - Sprint 1_R2_2025;Produto Digital com Software;Nova funcionalidade;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 13:06:25;29/04/2025 12:03:57
-Ativado - Disponível para uso;Desenvolvedor 28; - Sprint 1_R2_2025;Produto Digital com Software;Nova funcionalidade;8;Até 3 semanas - 15 dias úteis (M);11;Dependências externas;Squad 4;19/03/2025 13:09:38;30/04/2025 10:15:50
-Ativado - Disponível para uso;Desenvolvedor 6; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 13:21:02;01/04/2025 11:59:38
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 13:35:16;01/04/2025 11:59:20
-Ativado - Disponível para uso;Desenvolvedor 29;;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);768291;;Squad 6;19/03/2025 15:50:07;08/04/2025 10:21:22
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 4 RELEASE 1;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 10:58:27;21/03/2025 22:19:07
-Ativado - Disponível para uso;Desenvolvedor 26;RELEASE 2;Produto Digital com Software;Evolução Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;20/03/2025 12:22:41;14/04/2025 10:39:22
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 15:34:26;28/03/2025 12:12:49
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 4 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 17:45:58;27/03/2025 11:09:30
-Ativado - Disponível para uso;Desenvolvedor 12;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 17:53:59;25/04/2025 18:13:19
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 4 RELEASE 1;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;21/03/2025 11:01:41;21/03/2025 22:18:49
-Ativado - Disponível para uso;Desenvolvedor 5;_R2_25;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;21/03/2025 11:12:38;10/04/2025 11:34:33
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 4 RELEASE 1;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;21/03/2025 11:19:31;28/03/2025 09:00:13
-Ativado - Disponível para uso;Desenvolvedor 2;RELEASE 2;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;21/03/2025 13:48:00;25/04/2025 12:12:36
-Ativado - Disponível para uso;Desenvolvedor 27;RELEASE 2;Produto Digital com Software;Evolução Técnica;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;21/03/2025 15:59:16;06/05/2025 09:31:36
-Ativado - Disponível para uso;Desenvolvedor 29;;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/03/2025 12:41:42;08/04/2025 10:21:48
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 4 RELEASE 1;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/03/2025 14:14:40;25/03/2025 22:07:25
-Ativado - Disponível para uso;Desenvolvedor 22;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/03/2025 15:35:20;26/03/2025 18:10:23
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:03:39;27/03/2025 10:58:07
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:21:30;04/04/2025 11:02:40
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:28:44;31/03/2025 11:03:56
-Ativado - Disponível para uso;Desenvolvedor 18;_R2_25;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:31:28;14/05/2025 16:15:39
-Ativado - Disponível para uso;Desenvolvedor 6; - Sprint 1_R2_2025;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;25/03/2025 15:00:09;15/04/2025 11:18:07
-Ativado - Disponível para uso;Desenvolvedor 10;A - Sprint 1 R2 2025;Produto Digital com Software;Nova funcionalidade;13;Até 2 semanas - 10 dias úteis (P);489365;Falta de informações/Erros de definição;Squad 6;25/03/2025 15:22:34;05/05/2025 17:20:45
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 1 RELEASE 2;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;26/03/2025 11:22:30;15/04/2025 09:14:13
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 4 RELEASE 1;Atividades Pura-Infra;Pura-Infra;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;26/03/2025 14:49:00;31/03/2025 10:32:58
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 1 RELEASE 2;Produto Digital com Software;Adequação  a um novo requisito não-funcional;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/03/2025 10:14:33;23/04/2025 09:53:47
-Ativado - Disponível para uso;Desenvolvedor 22;A - Sprint 2 R2 2025;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);1814095;Dependências externas;Squad 6;27/03/2025 11:19:23;07/05/2025 19:33:05
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;27/03/2025 11:59:14;01/04/2025 10:03:50
-Ativado - Disponível para uso;Desenvolvedor 34; - Sprint 1_R2_2025;Atividades Pura-Infra;Pura-Infra;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;27/03/2025 16:25:31;30/04/2025 09:52:03
-Ativado - Disponível para uso;Desenvolvedor 1;;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/03/2025 10:16:19;07/04/2025 18:04:49
-Ativado - Disponível para uso;Desenvolvedor 16;;Atividades Pura-Infra;Pura-Infra;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;28/03/2025 16:38:43;31/03/2025 22:32:04
-Benefício capturado;Desenvolvedor 15;2025-R2-SP02;Dados e Analytics;SOR   System of Records;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;28/03/2025 19:09:27;24/04/2025 09:50:18
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 0 RELEASE 2;Atividades Pura-Infra;Pura-Infra;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;31/03/2025 11:13:34;03/04/2025 10:39:38
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 4_R1_2025;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;31/03/2025 12:23:46;04/04/2025 11:34:51
-Benefício capturado;Desenvolvedor 35; - Sprint 1_R2_2025;Produto Digital com Software;Nova funcionalidade;2;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;31/03/2025 17:16:31;29/04/2025 12:04:15
-Ativado - Disponível para uso;Desenvolvedor 36; - Sprint 1_R2_2025;Produto Digital com Software;Evolução Técnica;2;Até 3 semanas - 15 dias úteis (M);164059;Infraestrutura/Ambiente;Squad 4;31/03/2025 17:29:28;23/04/2025 19:29:46
-Ativado - Disponível para uso;Desenvolvedor 11;;Produto Digital com Software;Alteração de funcionalidade ;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;01/04/2025 11:53:32;07/04/2025 15:14:24
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R2-SP01;Dados e Analytics;SOR   System of Records;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;01/04/2025 17:31:57;09/04/2025 10:22:13
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;01/04/2025 18:16:59;03/04/2025 11:09:37
-Ativado - Disponível para uso;Desenvolvedor 27;RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);90043;;Squad 8;02/04/2025 16:26:28;13/05/2025 10:44:54
-Ativado - Disponível para uso;Desenvolvedor 21;A - Sprint 2 R2 2025;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);1622496;Dependências externas;Squad 6;03/04/2025 11:26:23;13/05/2025 19:55:39
-Ativado - Disponível para uso;Desenvolvedor 21;A - Sprint 2 R2 2025;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);1032769;Dependências externas;Squad 6;03/04/2025 17:54:53;16/05/2025 19:14:21
-Ativado - Disponível para uso;Desenvolvedor 15;2025-R2-SP01;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;03/04/2025 18:42:27;22/04/2025 16:44:38
-Ativado - Disponível para uso;Desenvolvedor 16;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;04/04/2025 11:08:06;22/04/2025 12:33:36
-Benefício capturado;Desenvolvedor 5;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;04/04/2025 15:35:50;24/04/2025 11:33:43
-Ativado - Disponível para uso;Desenvolvedor 10;A - Sprint 1 R2 2025;Produto Digital com Software;Adequação  a um novo requisito não-funcional;3;Até 1 semana - 5 dias úteis (PP);803727;Dependências externas;Squad 6;04/04/2025 17:50:34;25/04/2025 17:48:13
-Ativado - Disponível para uso;Desenvolvedor 18;_I1_R1_25;Parametrização de Software;Parametrizações;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;07/04/2025 09:23:21;09/04/2025 09:24:34
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);136;Dependências externas;Squad 2;07/04/2025 10:15:13;25/04/2025 11:31:28
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:18:48;16/04/2025 11:47:06
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:31:49;24/04/2025 14:00:57
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:45:49;08/05/2025 23:33:07
-Ativado - Disponível para uso;Desenvolvedor 25;;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:48:10;25/04/2025 18:17:54
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 2;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:55:35;13/05/2025 22:24:56
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);88930;Falta de informações/Erros de definição;Squad 2;07/04/2025 11:04:23;12/05/2025 09:47:25
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 1 RELEASE 2;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 11:48:35;08/04/2025 22:31:23
-Ativado - Disponível para uso;Desenvolvedor 17;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;07/04/2025 16:25:21;30/04/2025 11:14:32
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 2 semanas - 10 dias úteis (P);719478;Infraestrutura/Ambiente;Squad 5;07/04/2025 19:09:59;06/05/2025 09:23:52
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;07/04/2025 19:17:19;23/04/2025 09:52:54
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R2-SP01;Dados e Analytics;SOR   System of Records;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;08/04/2025 10:42:24;22/04/2025 16:45:43
-Ativado - Disponível para uso;Desenvolvedor 29;A - Sprint 1 R2 2025;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;08/04/2025 11:05:05;23/04/2025 10:04:28
-Ativado - Disponível para uso;Desenvolvedor 17;_R2_25;Parametrização de Software;Parametrizações;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;08/04/2025 13:58:11;10/04/2025 11:07:18
-Ativado - Disponível para uso;Desenvolvedor 41;A - Sprint 1 R2 2025;Atividades Pura-Infra;Pura-Infra;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;08/04/2025 16:12:05;05/05/2025 17:27:41
-Ativado - Disponível para uso;Desenvolvedor 18;_R2_25;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;09/04/2025 09:26:51;15/04/2025 16:05:07
-Ativado - Disponível para uso;Desenvolvedor 1;A - Sprint 1 R2 2025;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;09/04/2025 10:30:51;28/04/2025 09:40:55
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);845812;Dependências externas;Squad 2;09/04/2025 14:55:44;25/04/2025 09:33:28
-Ativado - Disponível para uso;Desenvolvedor 5;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);579438;Dependências externas;Squad 3;10/04/2025 11:00:59;16/05/2025 19:43:29
-Ativado - Disponível para uso;Desenvolvedor 23;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;10/04/2025 11:11:24;14/05/2025 14:01:48
-Ativado - Disponível para uso;Desenvolvedor 21;A - Sprint 1 R2 2025;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;10/04/2025 11:11:59;22/04/2025 10:28:58
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);88925;Falta de informações/Erros de definição;Squad 2;11/04/2025 10:44:03;12/05/2025 09:45:45
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 1 RELEASE 2;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;11/04/2025 11:43:58;28/04/2025 09:57:43
-Ativado - Disponível para uso;Desenvolvedor 21;A - Sprint 1 R2 2025;Produto Digital com Software;Alteração de funcionalidade ;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;11/04/2025 15:15:26;22/04/2025 10:29:28
-Ativado - Disponível para uso;Desenvolvedor 28; - Sprint 1_R2_2025;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;11/04/2025 18:19:31;25/04/2025 17:39:47
-Ativado - Disponível para uso;Desenvolvedor 13;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;15/04/2025 10:11:03;16/04/2025 11:39:05
-Ativado - Disponível para uso;Desenvolvedor 33;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;15/04/2025 10:27:10;25/04/2025 11:31:48
-Ativado - Disponível para uso;Desenvolvedor 18;_R2_25;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;15/04/2025 12:06:37;08/05/2025 11:05:18
-Ativado - Disponível para uso;Desenvolvedor 17;_R2_25;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;16/04/2025 09:42:19;08/05/2025 14:47:34
-Ativado - Disponível para uso;Desenvolvedor 22;A - Sprint 2 R2 2025;Atividades Pura-Infra;Pura-Infra;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;16/04/2025 10:18:18;07/05/2025 19:32:53
-Ativado - Disponível para uso;Desenvolvedor 17;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;16/04/2025 14:29:53;16/04/2025 14:35:03
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 14:46:49;24/04/2025 00:48:32
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 14:51:47;28/04/2025 09:50:12
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);80139;Infraestrutura/Ambiente;Squad 2;16/04/2025 14:56:02;01/05/2025 00:44:41
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);432504;Dependências externas;Squad 2;16/04/2025 15:04:45;08/05/2025 12:33:26
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);545223;Falta de informações/Erros de definição;Squad 2;16/04/2025 15:07:03;12/05/2025 09:43:35
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 15:15:39;24/04/2025 00:48:28
-Ativado - Disponível para uso;Desenvolvedor 42;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 15:17:34;13/05/2025 10:14:52
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 15:23:15;12/05/2025 09:44:00
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 1 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;17/04/2025 09:05:28;28/04/2025 09:44:44
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;17/04/2025 09:31:47;02/05/2025 08:16:54
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 1 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;17/04/2025 10:45:34;28/04/2025 09:50:26
-Ativado - Disponível para uso;Desenvolvedor 8;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;22/04/2025 15:10:43;16/05/2025 20:55:39
-Benefício capturado;Desenvolvedor 8;_R2_25;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;22/04/2025 15:12:54;16/05/2025 20:55:35
-Ativado - Disponível para uso;Desenvolvedor 14;2025-R2-SP02;Dados e Analytics;SOR   System of Records;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;22/04/2025 17:08:37;07/05/2025 09:45:22
-Ativado - Disponível para uso;Desenvolvedor 15;2025-R2-SP02;Dados e Analytics;SOR   System of Records;;Até 3 semanas - 15 dias úteis (M);0;;Squad 1;22/04/2025 17:24:35;07/05/2025 09:46:30
-Ativado - Disponível para uso;Desenvolvedor 2;RELEASE 2;Produto Digital com Software;Evolução Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;23/04/2025 11:08:04;25/04/2025 12:12:24
-Ativado - Disponível para uso;Desenvolvedor 23;_R2_25;Produto Digital com Software;Solução de Dívida Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;23/04/2025 13:00:10;30/04/2025 11:35:46
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;5;Até 1 semana - 5 dias úteis (PP);252903;Falta de informações/Erros de definição;Squad 2;24/04/2025 09:48:57;09/05/2025 22:45:35
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 10:36:11;12/05/2025 09:44:15
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 11:01:01;16/05/2025 10:39:39
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 2 RELEASE 2;Produto Digital com Software;Evolução Técnica;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 12:11:12;08/05/2025 23:33:18
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Evolução Técnica;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 12:16:31;12/05/2025 09:45:26
-Ativado - Disponível para uso;Desenvolvedor 1;A - Sprint 1 R2 2025;Atividades Pura-Infra;Pura-Infra;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;25/04/2025 10:52:22;28/04/2025 15:54:37
-Ativado - Disponível para uso;Desenvolvedor 6; - Sprint 1_R2_2025;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;25/04/2025 11:20:48;30/04/2025 09:46:33
-Ativado - Disponível para uso;Desenvolvedor 35; - Sprint 1_R2_2025;Produto Digital com Software;Evolução Técnica;2;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;25/04/2025 14:32:20;29/04/2025 12:04:37
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 2 RELEASE 2;Produto Digital com Software;Novo produto;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;28/04/2025 11:10:21;16/05/2025 19:06:44
-Ativado - Disponível para uso;Desenvolvedor 3;SPRINT 2 RELEASE 2;Produto Digital com Software;Novo produto;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;28/04/2025 11:52:41;20/05/2025 10:06:50
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 2 RELEASE 2;Produto Digital com Software;Novo produto;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;28/04/2025 12:02:28;16/05/2025 19:03:41
-Ativado - Disponível para uso;Desenvolvedor 1;A - Sprint 2 R2 2025;Atividades Pura-Infra;Pura-Infra;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 13:58:19;13/05/2025 10:09:02
-Ativado - Disponível para uso;Desenvolvedor 1;A - Sprint 2 R2 2025;Atividades Pura-Infra;Pura-Infra;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 14:01:03;06/05/2025 10:19:19
-Ativado - Disponível para uso;Desenvolvedor 22;A - Sprint 2 R2 2025;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 15:07:34;15/05/2025 13:08:06
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;28/04/2025 15:11:40;09/05/2025 09:56:25
-Ativado - Disponível para uso;Desenvolvedor 21;A - Sprint 1 R2 2025;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 15:12:47;29/04/2025 18:21:18
-Ativado - Disponível para uso;Desenvolvedor 21;A - Sprint 2 R2 2025;Atividades Pura-Infra;Pura-Infra;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;29/04/2025 18:22:49;13/05/2025 19:55:20
-Benefício capturado;Desenvolvedor 6; - Sprint 2_R2_2025;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;30/04/2025 11:25:47;15/05/2025 11:47:01
-Ativado - Disponível para uso;Desenvolvedor 11;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;30/04/2025 15:10:35;08/05/2025 23:32:47
-Ativado - Disponível para uso;Desenvolvedor 23;_R2_25;Produto Digital com Software;Solução de Dívida Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;30/04/2025 15:13:42;06/05/2025 11:43:27
-Ativado - Disponível para uso;Desenvolvedor 29;A - Sprint 2 R2 2025;Produto Digital com Software;Alteração de funcionalidade ;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;02/05/2025 09:05:47;12/05/2025 11:10:47
-Ativado - Disponível para uso;Desenvolvedor 43;RELEASE 2;Produto Digital com Software;Evolução Técnica;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;02/05/2025 09:15:00;07/05/2025 10:13:59
-Ativado - Disponível para uso;Desenvolvedor 10;A - Sprint 2 R2 2025;Produto Digital com Software;Alteração de funcionalidade ;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;05/05/2025 17:13:50;07/05/2025 09:47:29
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;06/05/2025 09:22:01;14/05/2025 17:55:00
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 09:50:15;09/05/2025 09:47:10
-Ativado - Disponível para uso;Desenvolvedor 43;RELEASE 2;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;06/05/2025 09:59:17;08/05/2025 09:15:51
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Produto Digital com Software;Novo produto;3;Até 1 semana - 5 dias úteis (PP);360919;Dependências externas;Squad 5;06/05/2025 10:29:44;13/05/2025 16:45:47
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 11:34:00;12/05/2025 09:43:24
-Ativado - Disponível para uso;Desenvolvedor 27;RELEASE 2;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;06/05/2025 12:24:19;13/05/2025 10:45:00
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 16:28:12;09/05/2025 22:46:02
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 16:37:44;12/05/2025 22:52:53
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;2;Até 1 semana - 5 dias úteis (PP);85933;Dependências externas;Squad 2;06/05/2025 16:40:04;15/05/2025 18:35:47
-Ativado - Disponível para uso;Desenvolvedor 22;A - Sprint 2 R2 2025;Produto Digital com Software;Nova funcionalidade;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;07/05/2025 10:29:22;15/05/2025 13:07:57
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Atividades Pura-Infra;Pura-Infra;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;07/05/2025 14:42:25;12/05/2025 08:11:18
-Ativado - Disponível para uso;Desenvolvedor 38;;Produto Digital com Software;Nova funcionalidade;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;07/05/2025 15:18:52;07/05/2025 15:23:18
-Ativado - Disponível para uso;Desenvolvedor 32;SPRINT 2 RELEASE 2;Produto Digital com Software;Novo produto;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;07/05/2025 17:01:27;09/05/2025 11:42:36
-Ativado - Disponível para uso;Desenvolvedor 43;RELEASE 2;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;08/05/2025 09:32:34;19/05/2025 09:48:06
-Ativado - Disponível para uso;Desenvolvedor 43;RELEASE 2;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;08/05/2025 09:42:04;19/05/2025 09:48:19
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;08/05/2025 15:28:32;12/05/2025 09:44:08
-Ativado - Disponível para uso;Desenvolvedor 27;RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;08/05/2025 15:29:56;16/05/2025 09:23:04
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;08/05/2025 16:46:28;16/05/2025 11:04:41
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;1;Até 1 semana - 5 dias úteis (PP);65736;Dependências externas;Squad 2;08/05/2025 16:52:09;19/05/2025 15:28:25
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Parametrização de Software;Parametrizações;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;08/05/2025 16:53:57;19/05/2025 08:59:05
-Ativado - Disponível para uso;Desenvolvedor 19;SPRINT 2 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;09/05/2025 11:07:13;14/05/2025 15:19:26
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 2 RELEASE 2;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;09/05/2025 11:29:54;15/05/2025 11:14:38
-Ativado - Disponível para uso;Desenvolvedor 32;SPRINT 2 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;09/05/2025 11:35:39;15/05/2025 11:09:18
-Ativado - Disponível para uso;Desenvolvedor 10;A - Sprint 2 R2 2025;Produto Digital com Software;Alteração de funcionalidade ;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;09/05/2025 15:53:19;12/05/2025 11:14:47
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/05/2025 11:12:00;13/05/2025 09:58:15
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/05/2025 12:03:07;19/05/2025 09:42:51
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Produto Digital com Software;Evolução Técnica;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/05/2025 12:40:26;12/05/2025 22:52:41
-Ativado - Disponível para uso;Desenvolvedor 23;_R2_25;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;12/05/2025 12:58:17;16/05/2025 11:47:57
-Ativado - Disponível para uso;Desenvolvedor 12;SPRINT 2 RELEASE 2;Produto Digital com Software;Alteração de funcionalidade ;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/05/2025 09:56:55;16/05/2025 10:44:31
-Ativado - Disponível para uso;Desenvolvedor 4;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/05/2025 10:00:09;19/05/2025 09:42:58
-Ativado - Disponível para uso;Desenvolvedor 1;A - Sprint 2 R2 2025;Atividades Pura-Infra;Pura-Infra;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;14/05/2025 16:42:49;15/05/2025 13:07:45
-Ativado - Disponível para uso;Desenvolvedor 7;SPRINT 2 RELEASE 2;Produto Digital com Software;Nova funcionalidade;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/05/2025 16:57:48;16/05/2025 11:04:26
-Ativado - Disponível para uso;Desenvolvedor 20;SPRINT 2 RELEASE 2;Atividades Pura-Infra;Pura-Infra;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;14/05/2025 18:31:50;16/05/2025 19:04:15
-Ativado - Disponível para uso;Desenvolvedor 22;A - Sprint 2 R2 2025;Produto Digital com Software;Nova funcionalidade;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;19/05/2025 16:56:09;21/05/2025 14:23:36
+status;responsavel;pontos;duracao_estimada;total_impedimento;motivo_ impedimento;squad;aberto_em;finalizado_em
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;02/01/2025 10:01:16;27/01/2025 16:32:05
+Ativado;Desenvolvedor 2;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;02/01/2025 15:25:28;17/01/2025 10:08:59
+Ativado;Desenvolvedor 3;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;06/01/2025 10:23:03;15/01/2025 16:15:52
+Ativado;Desenvolvedor 4;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/01/2025 11:10:30;12/02/2025 10:07:40
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);11;Infraestrutura/Ambiente;Squad 3;06/01/2025 11:34:21;22/01/2025 11:15:56
+Ativado;Desenvolvedor 7;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/01/2025 17:20:39;10/01/2025 10:19:33
+Ativado;Desenvolvedor 8;;Até 3 semanas - 15 dias úteis (M);0;;Squad 3;07/01/2025 18:26:12;21/01/2025 11:21:22
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;07/01/2025 18:33:36;05/02/2025 11:50:07
+Ativado;Desenvolvedor 9;;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;08/01/2025 12:13:38;15/01/2025 10:30:34
+Ativado;Desenvolvedor 3;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;08/01/2025 14:21:04;04/02/2025 11:02:14
+Ativado;Desenvolvedor 10;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;08/01/2025 16:50:13;27/01/2025 16:21:54
+Ativado;Desenvolvedor 11;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;09/01/2025 09:23:48;14/02/2025 22:59:16
+Ativado;Desenvolvedor 12;3;Até 1 semana - 5 dias úteis (PP);14;Dependências externas;Squad 2;09/01/2025 09:26:57;27/02/2025 14:23:29
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;09/01/2025 10:28:02;13/01/2025 09:30:12
+Ativado;Desenvolvedor 13;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;09/01/2025 11:42:35;14/01/2025 11:07:11
+Ativado;Desenvolvedor 14;;Até 2 semanas - 10 dias úteis (P);6936322;Dependências externas;Squad 1;10/01/2025 11:18:00;31/03/2025 18:08:07
+Ativado;Desenvolvedor 15;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;10/01/2025 11:26:34;23/01/2025 14:45:09
+Ativado;Desenvolvedor 15;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;10/01/2025 11:29:49;24/01/2025 10:01:37
+Ativado;Desenvolvedor 14;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;10/01/2025 11:44:13;21/02/2025 16:08:52
+Ativado;Desenvolvedor 16;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;10/01/2025 14:27:00;13/01/2025 08:58:27
+Ativado;Desenvolvedor 11;1;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 2;10/01/2025 15:44:08;22/01/2025 22:21:27
+Ativado;Desenvolvedor 12;3;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 2;10/01/2025 15:48:51;24/01/2025 11:15:40
+Ativado;Desenvolvedor 11;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;10/01/2025 17:12:46;21/01/2025 09:55:45
+Ativado;Desenvolvedor 17;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;13/01/2025 10:25:56;21/01/2025 11:37:08
+Ativado;Desenvolvedor 9;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;13/01/2025 11:06:52;15/01/2025 10:31:01
+Ativado;Desenvolvedor 18;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;13/01/2025 11:25:17;22/01/2025 14:14:31
+Ativado;Desenvolvedor 18;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;13/01/2025 11:29:06;17/01/2025 11:37:47
+Ativado;Desenvolvedor 19;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;13/01/2025 12:17:14;04/02/2025 11:03:38
+Ativado;Desenvolvedor 20;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;13/01/2025 12:21:51;21/01/2025 10:11:32
+Ativado;Desenvolvedor 3;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;13/01/2025 12:34:39;21/02/2025 17:16:51
+Ativado;Desenvolvedor 13;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;14/01/2025 13:05:09;24/01/2025 11:30:00
+Ativado;Desenvolvedor 16;8;Até 2 semanas - 10 dias úteis (P);3;Infraestrutura/Ambiente;Squad 2;14/01/2025 18:54:48;17/02/2025 22:44:10
+Ativado;Desenvolvedor 12;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;14/01/2025 19:22:44;30/01/2025 22:22:49
+Ativado;Desenvolvedor 21;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;14/01/2025 20:10:09;15/01/2025 10:02:57
+Ativado;Desenvolvedor 21;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;15/01/2025 10:04:35;26/01/2025 17:56:52
+Ativado;Desenvolvedor 20;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;15/01/2025 17:09:35;21/01/2025 10:11:29
+Ativado;Desenvolvedor 22;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;16/01/2025 12:12:15;28/01/2025 10:05:19
+Ativado;Desenvolvedor 10;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;16/01/2025 15:08:26;17/01/2025 10:53:43
+Ativado;Desenvolvedor 8;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;17/01/2025 11:27:22;06/02/2025 11:35:21
+Ativado;Desenvolvedor 23;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;17/01/2025 13:51:52;10/02/2025 11:41:00
+Ativado;Desenvolvedor 20;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;21/01/2025 10:01:05;27/01/2025 09:53:14
+Ativado;Desenvolvedor 20;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;21/01/2025 16:58:27;27/01/2025 09:53:05
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;22/01/2025 14:06:20;27/01/2025 16:28:08
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;22/01/2025 14:21:34;27/01/2025 16:27:48
+Ativado;Desenvolvedor 22;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;23/01/2025 10:32:06;27/01/2025 16:24:05
+Ativado;Desenvolvedor 24;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;23/01/2025 14:34:34;27/01/2025 14:47:27
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;23/01/2025 15:20:24;24/01/2025 11:18:09
+Ativado;Desenvolvedor 7;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 17:19:13;11/02/2025 10:11:52
+Ativado;Desenvolvedor 12;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 17:25:25;12/02/2025 10:39:09
+Ativado;Desenvolvedor 7;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 23:30:13;23/04/2025 16:33:37
+Ativado;Desenvolvedor 12;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;23/01/2025 23:32:00;07/03/2025 10:27:24
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/01/2025 11:22:17;27/01/2025 16:22:37
+Ativado;Desenvolvedor 7;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;24/01/2025 12:07:34;27/02/2025 09:04:11
+Ativado;Desenvolvedor 4;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/01/2025 14:19:44;12/02/2025 10:18:11
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/01/2025 14:32:18;27/01/2025 16:27:32
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/01/2025 15:08:00;28/01/2025 11:38:29
+Ativado;Desenvolvedor 2;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 10:15:54;17/02/2025 09:37:11
+Ativado;Desenvolvedor 26;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 10:48:28;12/02/2025 09:49:10
+Ativado;Desenvolvedor 26;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 11:02:46;12/02/2025 11:03:19
+Ativado;Desenvolvedor 20;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/01/2025 11:06:43;30/01/2025 08:16:58
+Ativado;Desenvolvedor 3;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;27/01/2025 11:13:09;14/02/2025 07:56:53
+Ativado;Desenvolvedor 27;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;27/01/2025 11:15:18;17/02/2025 09:27:46
+Ativado;Desenvolvedor 20;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/01/2025 11:58:03;14/02/2025 07:56:59
+Ativado;Desenvolvedor 20;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/01/2025 12:18:40;10/02/2025 11:16:11
+Ativado;Desenvolvedor 8;;Até 1 semana - 5 dias úteis (PP);1470096;Infraestrutura/Ambiente;Squad 3;27/01/2025 12:25:27;23/04/2025 11:52:26
+Ativado;Desenvolvedor 21;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/01/2025 15:40:38;27/01/2025 16:23:53
+Ativado;Desenvolvedor 21;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/01/2025 16:39:51;28/01/2025 09:35:10
+Ativado;Desenvolvedor 24;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;27/01/2025 16:55:01;19/03/2025 15:29:10
+Ativado;Desenvolvedor 28;5;Até 1 semana - 5 dias úteis (PP);4729;;Squad 4;27/01/2025 16:56:26;15/04/2025 11:52:48
+Ativado;Desenvolvedor 28;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;27/01/2025 16:59:05;11/02/2025 11:38:30
+Ativado;Desenvolvedor 6;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;27/01/2025 17:11:26;24/03/2025 11:39:02
+Ativado;Desenvolvedor 1;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 11:12:07;12/02/2025 10:10:21
+Ativado;Desenvolvedor 22;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 11:17:28;13/02/2025 12:24:00
+Ativado;Desenvolvedor 29;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 11:18:36;12/02/2025 10:09:53
+Ativado;Desenvolvedor 21;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;28/01/2025 12:11:57;28/01/2025 18:08:51
+Ativado;Desenvolvedor 21;3;Até 2 semanas - 10 dias úteis (P);0;Dependências externas;Squad 6;28/01/2025 12:29:56;11/02/2025 09:54:29
+Ativado;Desenvolvedor 23;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;30/01/2025 10:42:48;03/02/2025 11:38:36
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);348473;;Squad 3;30/01/2025 19:30:37;07/04/2025 11:33:14
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;31/01/2025 10:31:46;11/02/2025 10:19:02
+Ativado;Desenvolvedor 21;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;31/01/2025 16:26:41;03/02/2025 18:36:33
+Ativado;Desenvolvedor 1;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;03/02/2025 10:38:56;04/02/2025 12:07:48
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;03/02/2025 16:22:35;17/02/2025 11:38:41
+Ativado;Desenvolvedor 30;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;03/02/2025 17:22:15;17/02/2025 15:00:15
+Ativado;Desenvolvedor 31;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;03/02/2025 18:47:08;26/02/2025 11:08:08
+Ativado;Desenvolvedor 31;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;03/02/2025 19:31:30;06/02/2025 11:07:19
+Ativado;Desenvolvedor 10;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;03/02/2025 21:34:32;04/02/2025 12:07:35
+Ativado;Desenvolvedor 32;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;04/02/2025 11:37:03;06/02/2025 11:06:14
+Ativado;Desenvolvedor 10;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;04/02/2025 12:08:52;11/02/2025 09:32:04
+Ativado;Desenvolvedor 19;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;04/02/2025 17:14:29;10/02/2025 08:05:41
+Ativado;Desenvolvedor 11;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;05/02/2025 14:31:02;06/03/2025 20:56:17
+Ativado;Desenvolvedor 19;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;05/02/2025 18:05:05;18/02/2025 09:05:40
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;06/02/2025 09:46:54;14/02/2025 18:38:13
+Ativado;Desenvolvedor 22;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;06/02/2025 12:24:25;13/02/2025 13:50:28
+Ativado;Desenvolvedor 29;;Até 1 semana - 5 dias úteis (PP);0;Falta de informações/Erros de definição;Squad 6;06/02/2025 16:33:55;17/03/2025 10:04:43
+Ativado;Desenvolvedor 26;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;06/02/2025 16:59:38;17/02/2025 09:25:23
+Ativado;Desenvolvedor 22;;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;06/02/2025 20:23:16;13/02/2025 15:05:57
+Ativado;Desenvolvedor 17;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;07/02/2025 14:27:18;17/03/2025 11:11:01
+Ativado;Desenvolvedor 31;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;10/02/2025 11:03:58;17/02/2025 11:05:12
+Ativado;Desenvolvedor 20;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/02/2025 12:13:32;21/02/2025 14:17:08
+Ativado;Desenvolvedor 20;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/02/2025 12:24:55;18/02/2025 09:24:15
+Ativado;Desenvolvedor 20;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/02/2025 12:32:48;27/02/2025 11:06:16
+Ativado;Desenvolvedor 21;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;10/02/2025 15:01:35;11/02/2025 20:20:46
+Ativado;Desenvolvedor 19;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;10/02/2025 15:41:52;05/03/2025 14:15:54
+Ativado;Desenvolvedor 22;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;10/02/2025 18:31:28;21/02/2025 18:37:08
+Ativado;Desenvolvedor 13;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;11/02/2025 11:06:03;17/02/2025 11:38:12
+Ativado;Desenvolvedor 1;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/02/2025 12:27:16;27/02/2025 10:19:02
+Ativado;Desenvolvedor 21;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/02/2025 15:08:28;14/02/2025 09:34:27
+Ativado;Desenvolvedor 1;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/02/2025 17:00:36;28/02/2025 10:06:31
+Ativado;Desenvolvedor 4;3;Até 1 semana - 5 dias úteis (PP);2;Infraestrutura/Ambiente;Squad 2;13/02/2025 12:33:29;25/03/2025 09:55:02
+Ativado;Desenvolvedor 33;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/02/2025 15:38:31;11/03/2025 12:04:21
+Ativado;Desenvolvedor 16;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/02/2025 17:00:41;05/03/2025 23:03:04
+Ativado;Desenvolvedor 25;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/02/2025 17:37:22;27/02/2025 17:04:26
+Ativado;Desenvolvedor 21;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;13/02/2025 19:39:27;27/02/2025 10:02:03
+Ativado;Desenvolvedor 29;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;13/02/2025 20:55:41;27/02/2025 16:20:46
+Ativado;Desenvolvedor 7;;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/02/2025 09:52:40;17/02/2025 09:59:32
+Ativado;Desenvolvedor 12;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/02/2025 10:53:29;27/02/2025 11:10:59
+Ativado;Desenvolvedor 4;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/02/2025 17:00:22;11/03/2025 12:03:43
+Ativado;Desenvolvedor 16;3;Até 1 semana - 5 dias úteis (PP);2;Falta de informações/Erros de definição;Squad 2;14/02/2025 17:42:56;24/02/2025 22:54:39
+Ativado;Desenvolvedor 7;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;14/02/2025 17:44:43;07/03/2025 11:08:22
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;14/02/2025 18:07:00;18/02/2025 11:37:01
+Ativado;Desenvolvedor 3;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;17/02/2025 11:03:53;10/03/2025 15:03:31
+Ativado;Desenvolvedor 3;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;17/02/2025 11:12:59;25/02/2025 14:31:20
+Ativado;Desenvolvedor 21;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;17/02/2025 20:03:14;27/02/2025 10:02:40
+Ativado;Desenvolvedor 10;;Até 2 semanas - 10 dias úteis (P);0;Dependências externas;Squad 6;17/02/2025 21:05:02;17/03/2025 10:02:14
+Ativado;Desenvolvedor 34;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;18/02/2025 09:44:25;25/03/2025 18:06:51
+Ativado;Desenvolvedor 13;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;18/02/2025 14:51:45;12/03/2025 11:31:24
+Ativado;Desenvolvedor 12;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;18/02/2025 15:10:43;24/02/2025 23:39:12
+Ativado;Desenvolvedor 35;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/02/2025 15:28:23;31/03/2025 11:12:29
+Ativado;Desenvolvedor 35;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/02/2025 15:31:47;31/03/2025 11:12:45
+Ativado;Desenvolvedor 36;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;18/02/2025 15:44:01;10/04/2025 17:54:11
+Ativado;Desenvolvedor 36;5;Até 2 semanas - 10 dias úteis (P);854903;Dependências externas;Squad 4;18/02/2025 15:47:52;08/04/2025 11:51:55
+Ativado;Desenvolvedor 4;2;Até 1 semana - 5 dias úteis (PP);11;Infraestrutura/Ambiente;Squad 2;19/02/2025 11:31:58;25/03/2025 09:54:56
+Ativado;Desenvolvedor 12;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;19/02/2025 11:36:20;25/03/2025 09:38:02
+Ativado;Desenvolvedor 12;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;19/02/2025 12:16:14;19/02/2025 22:15:13
+Ativado;Desenvolvedor 26;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;20/02/2025 16:25:53;05/03/2025 15:16:46
+Ativado;Desenvolvedor 21;3;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 6;20/02/2025 18:12:55;17/03/2025 10:03:33
+Ativado;Desenvolvedor 10;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;21/02/2025 10:17:44;06/03/2025 18:11:50
+Ativado;Desenvolvedor 29;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;21/02/2025 15:54:32;12/03/2025 11:18:51
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);5;Dependências externas;Squad 2;21/02/2025 16:50:26;07/03/2025 11:08:55
+Ativado;Desenvolvedor 22;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;21/02/2025 17:58:35;07/03/2025 10:12:51
+Ativado;Desenvolvedor 33;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/02/2025 14:12:24;25/04/2025 11:30:17
+Ativado;Desenvolvedor 33;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;25/02/2025 10:49:19;25/04/2025 11:32:22
+Ativado;Desenvolvedor 22;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;25/02/2025 10:50:51;06/03/2025 15:43:21
+Ativado;Desenvolvedor 21;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;25/02/2025 11:58:40;28/02/2025 10:02:29
+Ativado;Desenvolvedor 19;5;Até 2 semanas - 10 dias úteis (P);1264152;Dependências externas;Squad 5;25/02/2025 14:36:42;28/03/2025 11:15:56
+Ativado;Desenvolvedor 37;;Até 2 semanas - 10 dias úteis (P);949842;Falta de informações/Erros de definição;Squad 7;25/02/2025 18:50:02;10/04/2025 11:10:57
+Ativado;Desenvolvedor 31;;Até 1 semana - 5 dias úteis (PP);259222;Infraestrutura/Ambiente;Squad 7;25/02/2025 18:55:02;09/05/2025 00:18:43
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);259553;Dependências externas;Squad 3;26/02/2025 15:16:39;03/04/2025 11:39:33
+Ativado;Desenvolvedor 1;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/02/2025 09:58:00;06/03/2025 11:59:04
+Ativado;Desenvolvedor 29;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;27/02/2025 10:08:14;07/03/2025 10:10:40
+Ativado;Desenvolvedor 12;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;27/02/2025 11:36:04;05/03/2025 22:09:07
+Ativado;Desenvolvedor 21;3;Até 1 semana - 5 dias úteis (PP);0;Dependências externas;Squad 6;27/02/2025 14:53:46;17/03/2025 10:02:37
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;28/02/2025 10:35:36;07/03/2025 11:08:37
+Ativado;Desenvolvedor 1;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/02/2025 15:31:55;06/03/2025 11:58:56
+Ativado;Desenvolvedor 16;1;Até 1 semana - 5 dias úteis (PP);508917;Infraestrutura/Ambiente;Squad 2;05/03/2025 13:48:28;31/03/2025 23:58:38
+Ativado;Desenvolvedor 7;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;05/03/2025 13:53:21;25/04/2025 09:41:26
+Ativado;Desenvolvedor 16;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/03/2025 10:19:15;19/03/2025 10:21:39
+Ativado;Desenvolvedor 1;5;Até 2 semanas - 10 dias úteis (P);0;Infraestrutura/Ambiente;Squad 6;06/03/2025 10:34:28;13/03/2025 10:45:04
+Ativado;Desenvolvedor 29;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;06/03/2025 10:45:30;13/03/2025 10:44:15
+Ativado;Desenvolvedor 11;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/03/2025 10:47:38;24/03/2025 23:02:22
+Ativado;Desenvolvedor 11;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/03/2025 10:57:43;14/04/2025 09:36:43
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);2959457;Infraestrutura/Ambiente;Squad 6;06/03/2025 11:15:24;22/04/2025 15:51:09
+Ativado;Desenvolvedor 17;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;06/03/2025 13:53:36;16/04/2025 09:49:46
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);0;Infraestrutura/Ambiente;Squad 6;06/03/2025 14:16:31;13/03/2025 10:46:35
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);0;Infraestrutura/Ambiente;Squad 6;06/03/2025 14:36:39;13/03/2025 10:47:34
+Ativado;Desenvolvedor 1;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;06/03/2025 14:50:19;24/03/2025 09:50:00
+Ativado;Desenvolvedor 10;5;Até 2 semanas - 10 dias úteis (P);1273041;Falta de informações/Erros de definição;Squad 6;06/03/2025 18:12:11;07/04/2025 11:11:25
+Ativado;Desenvolvedor 17;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;06/03/2025 19:18:07;16/04/2025 14:34:54
+Ativado;Desenvolvedor 19;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;07/03/2025 07:36:35;10/03/2025 07:14:53
+Ativado;Desenvolvedor 21;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;07/03/2025 10:30:37;26/03/2025 18:04:52
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;07/03/2025 10:32:50;13/03/2025 10:43:37
+Ativado;Desenvolvedor 15;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;07/03/2025 10:33:23;20/03/2025 18:28:26
+Ativado;Desenvolvedor 14;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;07/03/2025 10:40:07;31/03/2025 23:03:32
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);604544;;Squad 6;07/03/2025 10:44:05;04/04/2025 10:50:41
+Ativado;Desenvolvedor 14;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;07/03/2025 10:47:14;01/04/2025 17:28:13
+Ativado;Desenvolvedor 21;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;07/03/2025 11:58:55;17/03/2025 10:04:18
+Ativado;Desenvolvedor 8;;Até 2 semanas - 10 dias úteis (P);604511;Falta de informações/Erros de definição;Squad 3;07/03/2025 12:11:13;14/04/2025 11:59:17
+Ativado;Desenvolvedor 13;;Até 2 semanas - 10 dias úteis (P);0;;Squad 3;07/03/2025 12:27:47;25/03/2025 11:40:50
+Ativado;Desenvolvedor 12;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/03/2025 15:53:40;25/03/2025 09:38:27
+Ativado;Desenvolvedor 11;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;07/03/2025 17:37:45;04/04/2025 21:58:00
+Ativado;Desenvolvedor 12;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/03/2025 18:10:08;25/03/2025 09:26:14
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;07/03/2025 19:11:49;16/05/2025 11:45:27
+Ativado;Desenvolvedor 39;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;10/03/2025 09:43:21;03/04/2025 11:33:44
+Ativado;Desenvolvedor 18;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;10/03/2025 10:55:37;12/03/2025 11:20:11
+Ativado;Desenvolvedor 2;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;10/03/2025 12:03:05;14/03/2025 14:30:29
+Ativado;Desenvolvedor 18;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;10/03/2025 13:56:30;14/03/2025 11:11:30
+Ativado;Desenvolvedor 20;3;Até 1 semana - 5 dias úteis (PP);856447;Infraestrutura/Ambiente;Squad 5;10/03/2025 15:42:46;28/03/2025 09:00:09
+Ativado;Desenvolvedor 19;2;Até 2 semanas - 10 dias úteis (P);1793310;Falta de informações/Erros de definição;Squad 5;10/03/2025 16:34:39;06/05/2025 09:23:15
+Ativado;Desenvolvedor 19;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/03/2025 17:01:56;28/03/2025 11:16:09
+Ativado;Desenvolvedor 25;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;10/03/2025 17:29:58;14/03/2025 11:16:31
+Ativado;Desenvolvedor 20;2;Até 1 semana - 5 dias úteis (PP);856485;Infraestrutura/Ambiente;Squad 5;10/03/2025 17:34:42;28/03/2025 09:00:57
+Ativado;Desenvolvedor 3;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;10/03/2025 17:41:32;01/04/2025 14:37:55
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;11/03/2025 09:44:39;13/03/2025 10:44:07
+Ativado;Desenvolvedor 29;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;11/03/2025 09:49:12;13/03/2025 10:45:51
+Ativado;Desenvolvedor 13;;Até 2 semanas - 10 dias úteis (P);0;;Squad 3;11/03/2025 10:27:07;15/04/2025 14:21:44
+Ativado;Desenvolvedor 33;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;11/03/2025 11:49:12;25/04/2025 11:32:34
+Ativado;Desenvolvedor 21;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;11/03/2025 12:50:52;14/03/2025 20:05:38
+Ativado;Desenvolvedor 29;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;12/03/2025 09:59:13;14/03/2025 11:28:23
+Ativado;Desenvolvedor 7;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/03/2025 10:16:52;02/05/2025 09:25:22
+Ativado;Desenvolvedor 24;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;12/03/2025 11:43:31;16/04/2025 11:33:42
+Ativado;Desenvolvedor 36;8;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;12/03/2025 14:38:40;31/03/2025 18:06:11
+Ativado;Desenvolvedor 29;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;14/03/2025 09:37:33;19/03/2025 17:37:45
+Ativado;Desenvolvedor 33;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/03/2025 11:12:22;25/04/2025 11:32:45
+Ativado;Desenvolvedor 35;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/03/2025 11:06:53;01/04/2025 11:58:47
+Ativado;Desenvolvedor 35;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/03/2025 11:19:01;01/04/2025 11:58:59
+Ativado;Desenvolvedor 35;3;Até 3 semanas - 15 dias úteis (M);1882694;Infraestrutura/Ambiente;Squad 4;18/03/2025 11:30:53;29/04/2025 12:04:07
+Ativado;Desenvolvedor 35;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;18/03/2025 11:49:35;01/04/2025 11:58:36
+Ativado;Desenvolvedor 1;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;18/03/2025 13:46:13;19/03/2025 16:29:27
+Ativado;Desenvolvedor 10;;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;18/03/2025 15:09:37;19/03/2025 19:28:40
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;18/03/2025 16:44:12;28/03/2025 10:10:08
+Ativado;Desenvolvedor 31;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;19/03/2025 10:20:06;21/05/2025 07:43:47
+Ativado;Desenvolvedor 6;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 11:00:29;30/04/2025 10:18:02
+Ativado;Desenvolvedor 35;5;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 13:06:25;29/04/2025 12:03:57
+Ativado;Desenvolvedor 28;8;Até 3 semanas - 15 dias úteis (M);11;Dependências externas;Squad 4;19/03/2025 13:09:38;30/04/2025 10:15:50
+Ativado;Desenvolvedor 6;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 13:21:02;01/04/2025 11:59:38
+Ativado;Desenvolvedor 35;3;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;19/03/2025 13:35:16;01/04/2025 11:59:20
+Ativado;Desenvolvedor 29;5;Até 1 semana - 5 dias úteis (PP);768291;;Squad 6;19/03/2025 15:50:07;08/04/2025 10:21:22
+Ativado;Desenvolvedor 12;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 10:58:27;21/03/2025 22:19:07
+Ativado;Desenvolvedor 26;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;20/03/2025 12:22:41;14/04/2025 10:39:22
+Ativado;Desenvolvedor 11;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 15:34:26;28/03/2025 12:12:49
+Ativado;Desenvolvedor 7;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 17:45:58;27/03/2025 11:09:30
+Ativado;Desenvolvedor 12;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;20/03/2025 17:53:59;25/04/2025 18:13:19
+Ativado;Desenvolvedor 12;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;21/03/2025 11:01:41;21/03/2025 22:18:49
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;21/03/2025 11:12:38;10/04/2025 11:34:33
+Ativado;Desenvolvedor 20;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;21/03/2025 11:19:31;28/03/2025 09:00:13
+Ativado;Desenvolvedor 2;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;21/03/2025 13:48:00;25/04/2025 12:12:36
+Ativado;Desenvolvedor 27;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;21/03/2025 15:59:16;06/05/2025 09:31:36
+Ativado;Desenvolvedor 29;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/03/2025 12:41:42;08/04/2025 10:21:48
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/03/2025 14:14:40;25/03/2025 22:07:25
+Ativado;Desenvolvedor 22;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;24/03/2025 15:35:20;26/03/2025 18:10:23
+Ativado;Desenvolvedor 18;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:03:39;27/03/2025 10:58:07
+Ativado;Desenvolvedor 18;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:21:30;04/04/2025 11:02:40
+Ativado;Desenvolvedor 18;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:28:44;31/03/2025 11:03:56
+Ativado;Desenvolvedor 18;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;25/03/2025 10:31:28;14/05/2025 16:15:39
+Ativado;Desenvolvedor 6;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;25/03/2025 15:00:09;15/04/2025 11:18:07
+Ativado;Desenvolvedor 10;13;Até 2 semanas - 10 dias úteis (P);489365;Falta de informações/Erros de definição;Squad 6;25/03/2025 15:22:34;05/05/2025 17:20:45
+Ativado;Desenvolvedor 3;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;26/03/2025 11:22:30;15/04/2025 09:14:13
+Ativado;Desenvolvedor 12;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;26/03/2025 14:49:00;31/03/2025 10:32:58
+Ativado;Desenvolvedor 20;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;27/03/2025 10:14:33;23/04/2025 09:53:47
+Ativado;Desenvolvedor 22;5;Até 1 semana - 5 dias úteis (PP);1814095;Dependências externas;Squad 6;27/03/2025 11:19:23;07/05/2025 19:33:05
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;27/03/2025 11:59:14;01/04/2025 10:03:50
+Ativado;Desenvolvedor 34;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 4;27/03/2025 16:25:31;30/04/2025 09:52:03
+Ativado;Desenvolvedor 1;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/03/2025 10:16:19;07/04/2025 18:04:49
+Ativado;Desenvolvedor 16;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;28/03/2025 16:38:43;31/03/2025 22:32:04
+Ativado;Desenvolvedor 15;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;28/03/2025 19:09:27;24/04/2025 09:50:18
+Ativado;Desenvolvedor 12;2;Até 2 semanas - 10 dias úteis (P);0;;Squad 2;31/03/2025 11:13:34;03/04/2025 10:39:38
+Ativado;Desenvolvedor 35;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;31/03/2025 12:23:46;04/04/2025 11:34:51
+Ativado;Desenvolvedor 35;2;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;31/03/2025 17:16:31;29/04/2025 12:04:15
+Ativado;Desenvolvedor 36;2;Até 3 semanas - 15 dias úteis (M);164059;Infraestrutura/Ambiente;Squad 4;31/03/2025 17:29:28;23/04/2025 19:29:46
+Ativado;Desenvolvedor 11;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;01/04/2025 11:53:32;07/04/2025 15:14:24
+Ativado;Desenvolvedor 14;;Até 2 semanas - 10 dias úteis (P);0;;Squad 1;01/04/2025 17:31:57;09/04/2025 10:22:13
+Ativado;Desenvolvedor 18;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;01/04/2025 18:16:59;03/04/2025 11:09:37
+Ativado;Desenvolvedor 27;5;Até 1 semana - 5 dias úteis (PP);90043;;Squad 8;02/04/2025 16:26:28;13/05/2025 10:44:54
+Ativado;Desenvolvedor 21;5;Até 1 semana - 5 dias úteis (PP);1622496;Dependências externas;Squad 6;03/04/2025 11:26:23;13/05/2025 19:55:39
+Ativado;Desenvolvedor 21;5;Até 1 semana - 5 dias úteis (PP);1032769;Dependências externas;Squad 6;03/04/2025 17:54:53;16/05/2025 19:14:21
+Ativado;Desenvolvedor 15;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;03/04/2025 18:42:27;22/04/2025 16:44:38
+Ativado;Desenvolvedor 16;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;04/04/2025 11:08:06;22/04/2025 12:33:36
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;04/04/2025 15:35:50;24/04/2025 11:33:43
+Ativado;Desenvolvedor 10;3;Até 1 semana - 5 dias úteis (PP);803727;Dependências externas;Squad 6;04/04/2025 17:50:34;25/04/2025 17:48:13
+Ativado;Desenvolvedor 18;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;07/04/2025 09:23:21;09/04/2025 09:24:34
+Ativado;Desenvolvedor 33;5;Até 1 semana - 5 dias úteis (PP);136;Dependências externas;Squad 2;07/04/2025 10:15:13;25/04/2025 11:31:28
+Ativado;Desenvolvedor 7;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:18:48;16/04/2025 11:47:06
+Ativado;Desenvolvedor 7;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:31:49;24/04/2025 14:00:57
+Ativado;Desenvolvedor 11;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:45:49;08/05/2025 23:33:07
+Ativado;Desenvolvedor 25;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:48:10;25/04/2025 18:17:54
+Ativado;Desenvolvedor 12;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 10:55:35;13/05/2025 22:24:56
+Ativado;Desenvolvedor 33;2;Até 1 semana - 5 dias úteis (PP);88930;Falta de informações/Erros de definição;Squad 2;07/04/2025 11:04:23;12/05/2025 09:47:25
+Ativado;Desenvolvedor 12;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;07/04/2025 11:48:35;08/04/2025 22:31:23
+Ativado;Desenvolvedor 17;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;07/04/2025 16:25:21;30/04/2025 11:14:32
+Ativado;Desenvolvedor 19;3;Até 2 semanas - 10 dias úteis (P);719478;Infraestrutura/Ambiente;Squad 5;07/04/2025 19:09:59;06/05/2025 09:23:52
+Ativado;Desenvolvedor 3;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;07/04/2025 19:17:19;23/04/2025 09:52:54
+Ativado;Desenvolvedor 14;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;08/04/2025 10:42:24;22/04/2025 16:45:43
+Ativado;Desenvolvedor 29;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;08/04/2025 11:05:05;23/04/2025 10:04:28
+Ativado;Desenvolvedor 17;;Até 2 semanas - 10 dias úteis (P);0;;Squad 7;08/04/2025 13:58:11;10/04/2025 11:07:18
+Ativado;Desenvolvedor 41;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;08/04/2025 16:12:05;05/05/2025 17:27:41
+Ativado;Desenvolvedor 18;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;09/04/2025 09:26:51;15/04/2025 16:05:07
+Ativado;Desenvolvedor 1;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;09/04/2025 10:30:51;28/04/2025 09:40:55
+Ativado;Desenvolvedor 11;1;Até 1 semana - 5 dias úteis (PP);845812;Dependências externas;Squad 2;09/04/2025 14:55:44;25/04/2025 09:33:28
+Ativado;Desenvolvedor 5;;Até 1 semana - 5 dias úteis (PP);579438;Dependências externas;Squad 3;10/04/2025 11:00:59;16/05/2025 19:43:29
+Ativado;Desenvolvedor 23;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;10/04/2025 11:11:24;14/05/2025 14:01:48
+Ativado;Desenvolvedor 21;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;10/04/2025 11:11:59;22/04/2025 10:28:58
+Ativado;Desenvolvedor 33;2;Até 1 semana - 5 dias úteis (PP);88925;Falta de informações/Erros de definição;Squad 2;11/04/2025 10:44:03;12/05/2025 09:45:45
+Ativado;Desenvolvedor 7;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;11/04/2025 11:43:58;28/04/2025 09:57:43
+Ativado;Desenvolvedor 21;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;11/04/2025 15:15:26;22/04/2025 10:29:28
+Ativado;Desenvolvedor 28;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;11/04/2025 18:19:31;25/04/2025 17:39:47
+Ativado;Desenvolvedor 13;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;15/04/2025 10:11:03;16/04/2025 11:39:05
+Ativado;Desenvolvedor 33;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;15/04/2025 10:27:10;25/04/2025 11:31:48
+Ativado;Desenvolvedor 18;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;15/04/2025 12:06:37;08/05/2025 11:05:18
+Ativado;Desenvolvedor 17;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;16/04/2025 09:42:19;08/05/2025 14:47:34
+Ativado;Desenvolvedor 22;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;16/04/2025 10:18:18;07/05/2025 19:32:53
+Ativado;Desenvolvedor 17;;Até 1 semana - 5 dias úteis (PP);0;;Squad 7;16/04/2025 14:29:53;16/04/2025 14:35:03
+Ativado;Desenvolvedor 12;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 14:46:49;24/04/2025 00:48:32
+Ativado;Desenvolvedor 11;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 14:51:47;28/04/2025 09:50:12
+Ativado;Desenvolvedor 12;3;Até 1 semana - 5 dias úteis (PP);80139;Infraestrutura/Ambiente;Squad 2;16/04/2025 14:56:02;01/05/2025 00:44:41
+Ativado;Desenvolvedor 7;3;Até 1 semana - 5 dias úteis (PP);432504;Dependências externas;Squad 2;16/04/2025 15:04:45;08/05/2025 12:33:26
+Ativado;Desenvolvedor 4;2;Até 1 semana - 5 dias úteis (PP);545223;Falta de informações/Erros de definição;Squad 2;16/04/2025 15:07:03;12/05/2025 09:43:35
+Ativado;Desenvolvedor 12;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 15:15:39;24/04/2025 00:48:28
+Ativado;Desenvolvedor 42;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 15:17:34;13/05/2025 10:14:52
+Ativado;Desenvolvedor 4;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;16/04/2025 15:23:15;12/05/2025 09:44:00
+Ativado;Desenvolvedor 3;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;17/04/2025 09:05:28;28/04/2025 09:44:44
+Ativado;Desenvolvedor 19;1;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;17/04/2025 09:31:47;02/05/2025 08:16:54
+Ativado;Desenvolvedor 11;;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;17/04/2025 10:45:34;28/04/2025 09:50:26
+Ativado;Desenvolvedor 8;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;22/04/2025 15:10:43;16/05/2025 20:55:39
+Ativado;Desenvolvedor 8;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;22/04/2025 15:12:54;16/05/2025 20:55:35
+Ativado;Desenvolvedor 14;;Até 1 semana - 5 dias úteis (PP);0;;Squad 1;22/04/2025 17:08:37;07/05/2025 09:45:22
+Ativado;Desenvolvedor 15;;Até 3 semanas - 15 dias úteis (M);0;;Squad 1;22/04/2025 17:24:35;07/05/2025 09:46:30
+Ativado;Desenvolvedor 2;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;23/04/2025 11:08:04;25/04/2025 12:12:24
+Ativado;Desenvolvedor 23;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;23/04/2025 13:00:10;30/04/2025 11:35:46
+Ativado;Desenvolvedor 7;5;Até 1 semana - 5 dias úteis (PP);252903;Falta de informações/Erros de definição;Squad 2;24/04/2025 09:48:57;09/05/2025 22:45:35
+Ativado;Desenvolvedor 4;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 10:36:11;12/05/2025 09:44:15
+Ativado;Desenvolvedor 11;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 11:01:01;16/05/2025 10:39:39
+Ativado;Desenvolvedor 11;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 12:11:12;08/05/2025 23:33:18
+Ativado;Desenvolvedor 4;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;24/04/2025 12:16:31;12/05/2025 09:45:26
+Ativado;Desenvolvedor 1;;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;25/04/2025 10:52:22;28/04/2025 15:54:37
+Ativado;Desenvolvedor 6;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;25/04/2025 11:20:48;30/04/2025 09:46:33
+Ativado;Desenvolvedor 35;2;Até 3 semanas - 15 dias úteis (M);0;;Squad 4;25/04/2025 14:32:20;29/04/2025 12:04:37
+Ativado;Desenvolvedor 3;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;28/04/2025 11:10:21;16/05/2025 19:06:44
+Ativado;Desenvolvedor 3;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;28/04/2025 11:52:41;20/05/2025 10:06:50
+Ativado;Desenvolvedor 20;3;Até 2 semanas - 10 dias úteis (P);0;;Squad 5;28/04/2025 12:02:28;16/05/2025 19:03:41
+Ativado;Desenvolvedor 1;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 13:58:19;13/05/2025 10:09:02
+Ativado;Desenvolvedor 1;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 14:01:03;06/05/2025 10:19:19
+Ativado;Desenvolvedor 22;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 15:07:34;15/05/2025 13:08:06
+Ativado;Desenvolvedor 12;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;28/04/2025 15:11:40;09/05/2025 09:56:25
+Ativado;Desenvolvedor 21;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;28/04/2025 15:12:47;29/04/2025 18:21:18
+Ativado;Desenvolvedor 21;5;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;29/04/2025 18:22:49;13/05/2025 19:55:20
+Ativado;Desenvolvedor 6;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 4;30/04/2025 11:25:47;15/05/2025 11:47:01
+Ativado;Desenvolvedor 11;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;30/04/2025 15:10:35;08/05/2025 23:32:47
+Ativado;Desenvolvedor 23;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;30/04/2025 15:13:42;06/05/2025 11:43:27
+Ativado;Desenvolvedor 29;5;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;02/05/2025 09:05:47;12/05/2025 11:10:47
+Ativado;Desenvolvedor 43;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;02/05/2025 09:15:00;07/05/2025 10:13:59
+Ativado;Desenvolvedor 10;8;Até 2 semanas - 10 dias úteis (P);0;;Squad 6;05/05/2025 17:13:50;07/05/2025 09:47:29
+Ativado;Desenvolvedor 19;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;06/05/2025 09:22:01;14/05/2025 17:55:00
+Ativado;Desenvolvedor 7;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 09:50:15;09/05/2025 09:47:10
+Ativado;Desenvolvedor 43;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;06/05/2025 09:59:17;08/05/2025 09:15:51
+Ativado;Desenvolvedor 19;3;Até 1 semana - 5 dias úteis (PP);360919;Dependências externas;Squad 5;06/05/2025 10:29:44;13/05/2025 16:45:47
+Ativado;Desenvolvedor 4;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 11:34:00;12/05/2025 09:43:24
+Ativado;Desenvolvedor 27;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;06/05/2025 12:24:19;13/05/2025 10:45:00
+Ativado;Desenvolvedor 7;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 16:28:12;09/05/2025 22:46:02
+Ativado;Desenvolvedor 7;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;06/05/2025 16:37:44;12/05/2025 22:52:53
+Ativado;Desenvolvedor 7;2;Até 1 semana - 5 dias úteis (PP);85933;Dependências externas;Squad 2;06/05/2025 16:40:04;15/05/2025 18:35:47
+Ativado;Desenvolvedor 22;8;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;07/05/2025 10:29:22;15/05/2025 13:07:57
+Ativado;Desenvolvedor 19;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;07/05/2025 14:42:25;12/05/2025 08:11:18
+Ativado;Desenvolvedor 38;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;07/05/2025 15:18:52;07/05/2025 15:23:18
+Ativado;Desenvolvedor 32;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;07/05/2025 17:01:27;09/05/2025 11:42:36
+Ativado;Desenvolvedor 43;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;08/05/2025 09:32:34;19/05/2025 09:48:06
+Ativado;Desenvolvedor 43;;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;08/05/2025 09:42:04;19/05/2025 09:48:19
+Ativado;Desenvolvedor 4;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;08/05/2025 15:28:32;12/05/2025 09:44:08
+Ativado;Desenvolvedor 27;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 8;08/05/2025 15:29:56;16/05/2025 09:23:04
+Ativado;Desenvolvedor 7;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;08/05/2025 16:46:28;16/05/2025 11:04:41
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);65736;Dependências externas;Squad 2;08/05/2025 16:52:09;19/05/2025 15:28:25
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;08/05/2025 16:53:57;19/05/2025 08:59:05
+Ativado;Desenvolvedor 19;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;09/05/2025 11:07:13;14/05/2025 15:19:26
+Ativado;Desenvolvedor 20;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;09/05/2025 11:29:54;15/05/2025 11:14:38
+Ativado;Desenvolvedor 32;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;09/05/2025 11:35:39;15/05/2025 11:09:18
+Ativado;Desenvolvedor 10;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;09/05/2025 15:53:19;12/05/2025 11:14:47
+Ativado;Desenvolvedor 12;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/05/2025 11:12:00;13/05/2025 09:58:15
+Ativado;Desenvolvedor 4;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/05/2025 12:03:07;19/05/2025 09:42:51
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;12/05/2025 12:40:26;12/05/2025 22:52:41
+Ativado;Desenvolvedor 23;;Até 1 semana - 5 dias úteis (PP);0;;Squad 3;12/05/2025 12:58:17;16/05/2025 11:47:57
+Ativado;Desenvolvedor 12;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/05/2025 09:56:55;16/05/2025 10:44:31
+Ativado;Desenvolvedor 4;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;13/05/2025 10:00:09;19/05/2025 09:42:58
+Ativado;Desenvolvedor 1;3;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;14/05/2025 16:42:49;15/05/2025 13:07:45
+Ativado;Desenvolvedor 7;1;Até 1 semana - 5 dias úteis (PP);0;;Squad 2;14/05/2025 16:57:48;16/05/2025 11:04:26
+Ativado;Desenvolvedor 20;;Até 1 semana - 5 dias úteis (PP);0;;Squad 5;14/05/2025 18:31:50;16/05/2025 19:04:15
+Ativado;Desenvolvedor 22;2;Até 1 semana - 5 dias úteis (PP);0;;Squad 6;19/05/2025 16:56:09;21/05/2025 14:23:36
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
